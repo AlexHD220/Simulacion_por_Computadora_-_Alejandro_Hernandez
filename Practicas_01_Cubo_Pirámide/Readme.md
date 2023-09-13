@@ -1,7 +1,7 @@
 # Practicas 01 - Cubo Pirámide
 
 ## Universidad de Guadalajara
-## Centro Universitario de Ciencias Exactas e Ingenierías
+   Centro Universitario de Ciencias Exactas e Ingenierías
 
 ## Materia:
    Simulación por Computadora
@@ -35,3 +35,5 @@ Aquí se muestrán algunas imágenes relacionadas con la práctica:
 
 
    ![Captura Piramide 2](https://github.com/AlexHD220/Simulacion_por_Computadora_-_Alejandro_Hernandez/assets/142282445/9eb8438e-59ae-4c12-97d6-a56055ba4bcd)
+
+   ![Captura Piramide 3](https://github.com/AlexHD220/Simulacion_por_Computadora_-_Alejandro_Hernandez/assets/142282445/c904c97e-e0e6-4b17-8b20-3fea4b45068e)
