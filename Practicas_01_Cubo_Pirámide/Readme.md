@@ -1,4 +1,4 @@
-#Practicas 01 - Cubo Pirámide
+# Practicas 01 - Cubo Pirámide
 
 ## Universidad de Guadalajara
    Centro Universitario de Ciencias Exactas e Ingenierías
