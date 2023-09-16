@@ -2,6 +2,7 @@
 
 ## Universidad de Guadalajara
    Centro Universitario de Ciencias Exactas e Ingenierías
+   
 
 ## Materia:
    Simulación por Computadora
@@ -18,11 +19,17 @@
 ## Carrera: 
    Ingeniería en Computación
 
-  
+## Fecha: 
+   12 de Septiembre del 2023
+
+|   
+
 ## Descripción
 Esta carpeta contiene el reporte de la "Práctica 01 - Cubo Pirámide". Aquí encontrarás los archivos y documentos relacionados con esta práctica.
 
 - **Practica 01 - Cubo Pirámide.blend**: archivo fuente terminado del modelo 3D de la practica.
+
+|
 
 ## Imágenes
 

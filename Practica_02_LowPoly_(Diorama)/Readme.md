@@ -18,11 +18,17 @@
 ## Carrera: 
    Ingeniería en Computación
 
+## Fecha: 
+   16 de Septiembre del 2023
+
+|
   
 ## Descripción
 Esta carpeta contiene el reporte de la "Practica - 02 LowPoly (Diorama)". Aquí encontrarás los archivos y documentos relacionados con esta práctica.
 
 - **Practica 02 - LowPoly (Diorama) .blend**: archivo fuente terminado del modelo 3D de la practica.
+
+|
 
 ## **Imágenes**
 
