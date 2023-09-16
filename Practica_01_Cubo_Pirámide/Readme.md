@@ -1,4 +1,4 @@
-# Practicas 01 - Cubo Pirámide
+# Practica 01 - Cubo Pirámide
 
 ## Universidad de Guadalajara
    Centro Universitario de Ciencias Exactas e Ingenierías
@@ -22,7 +22,7 @@
 ## Descripción
 Esta carpeta contiene el reporte de la "Práctica 01 - Cubo Pirámide". Aquí encontrarás los archivos y documentos relacionados con esta práctica.
 
-- **Practicas 01 Cubo Pirámide.blend**: archivo fuente terminado del modelo 3D de la practica.
+- **Practica 01 - Cubo Pirámide.blend**: archivo fuente terminado del modelo 3D de la practica.
 
 ## Imágenes
 
