@@ -32,7 +32,7 @@ Esta carpeta contiene el reporte de la "Práctica 05 - Simulación liquido". Aqu
 
 ## **Imágenes**
 
-Aquí se muestrán algunas imágenes relacionadas con la práctica en donde se ilustra la implementación de físicas de tipo liquido:
+Aquí se muestrán algunas imágenes relacionadas con la práctica en donde se ilustra la implementación de físicas de tipo líquido:
 
 ![Captura 1](https://github.com/AlexHD220/Simulacion_por_Computadora_-_Alejandro_Hernandez/assets/142282445/7bd29c83-4686-4fed-a43d-d6bf4c684052)
 
